@@ -11,7 +11,7 @@ delivering results that exceed employer expectations.
 
 ## View My CV  
 You can view my online CV here:  
-🔗 
+🔗 https://github.com/seansav25/CV/blob/main/Sean_Sav_CV.pdf
 
 ## Skills & Technolo• Microsoft Word
 • Microsoft Excel
@@ -26,10 +26,9 @@ You can view my online CV here:
 • Account reconciliation
 
 ## 💼 Work Experience  
-- **Accountant** at CAMBOPAY CO., LTD (03/2019 - 01/2025) 
-- **Assistant/General Affair** at Kdragon Products and Engineering Co., Ltd, (02/2017 - 02/2019
-)  
-- **Assistant Accountant** at Van's Restaurant, (01/2015 - 02/2017)
+- **Accountant** at CAMBOPAY CO., LTD (2019 - 2025) 
+- **Assistant/General Affair** at Kdragon Products and Engineering Co., Ltd, (2017 - 2019)  
+- **Assistant Accountant** at Van's Restaurant, (2015 - 2017)
   
 ## 🎓 Education  
 🎓 Bachelor degree from National University of Management (NUM)  
