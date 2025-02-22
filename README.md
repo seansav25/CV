@@ -1,4 +1,4 @@
-# 🌟 My Digital CV  
+# My Digital CV  
 
 Welcome to my digital CV! This repository contains my personal resume, showcasing my skills, experience, and projects.  
 
@@ -25,14 +25,14 @@ You can view my online CV here:
 • Accounts payable and receivable
 • Account reconciliation
 
-## 💼 Work Experience  
+## Work Experience  
 - **Accountant** at CAMBOPAY CO., LTD (2019 - 2025) 
 - **Assistant/General Affair** at Kdragon Products and Engineering Co., Ltd, (2017 - 2019)  
 - **Assistant Accountant** at Van's Restaurant, (2015 - 2017)
   
-## 🎓 Education  
-🎓 Bachelor degree from National University of Management (NUM)  
+## Education  
+Bachelor degree from National University of Management (NUM)  
 
-## 📬 Contact Me  
+## Contact Me  
 📧 Email: seansav899@gmail.com   
 💻 GitHub: https://github.com/seansav25/CV
