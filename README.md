@@ -35,6 +35,5 @@ You can view my online CV here:
 🎓 Bachelor degree from National University of Management (NUM)  
 
 ## 📬 Contact Me  
-📧 Email: seansav899@gmail.com 
-🔗 LinkedIn:  
-💻 GitHub:  
+📧 Email: seansav899@gmail.com   
+💻 GitHub: https://github.com/seansav25/CV
